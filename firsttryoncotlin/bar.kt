@@ -1,1 +1,0 @@
-class Bar (val Email: String)
